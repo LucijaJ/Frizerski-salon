@@ -1,0 +1,111 @@
+body {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: url('http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-13-things-your-hairstylist-wont-tell-you-cut-and-color.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.ime-salona {
+    display: inherit;
+    margin: 0;
+    padding: 30px 0 10px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    font-family: Calibri,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 4em;
+    font-weight: 700;
+    line-height: normal;
+    color: #fff;
+}
+
+.naslov {
+    display: inherit;
+    margin: 0;
+    padding: 0 0 40px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    text-transform: uppercase;
+    font-size: 1.25em;
+    font-weight: 400;
+    letter-spacing: 5px;
+    color: #fff;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.navbar-nav {
+    font-weight: 400;
+    letter-spacing: 3px;
+	
+}
+
+div.c-wrapper{
+    width: 80%;
+    margin: auto;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+	width: 50%;
+	margin: auto;
+}
+
+
+.tagline-divider {
+    margin: 50px auto 3px;
+    max-width: 750px;
+    border-color: white;
+}
+
+.img-responsive {
+    width: auto;
+    height: 200px;
+}
+
+.img-center {
+	margin:0 auto;
+	}
+
+h4 {
+	color: white;
+	font-weight: bold;
+}
+
+.table {
+    width: 80%;
+    margin-left: auto;
+}
+
+.table-row p {
+    text-align: center;
+}
+
+.submit-button:hover {
+    background: #ff9999;
+    color: white;
+}
+
+#info {
+	color: #2052a3;
+	font-weight: bold;
+    list-style-type: none;
+	font-size: 16px;
+}
+
+.nav-link {
+	color: #2052a3;
+	font-weight: bold;
+}
+
+.modal-title {
+	color: #777;
+	text-align: center;
+}
+
+
